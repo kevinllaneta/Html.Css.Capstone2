@@ -23,6 +23,12 @@
     z-index: -1;
   }
 
+    .left-circle{
+    position: absolute;
+    left: 10px;
+    z-index: -1;
+  }
+
 body {
     margin: 0;
     padding: 0;
