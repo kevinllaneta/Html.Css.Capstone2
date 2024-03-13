@@ -28,7 +28,7 @@ body {
     padding: 0;
     background-size: cover;
     background-repeat: repeat;
-    background-attachment: absolute;
+    background-attachment: fixed;
     background-position: center;
   }
   
